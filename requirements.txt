@@ -9,4 +9,7 @@ pyaml
 mlflow
 dagshub
 pymongo
+fastapi
+uvicorn
+python-multipart>=0.0.9
 -e .
